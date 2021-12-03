@@ -38,21 +38,21 @@ const ImageWrapper = styled.div`
   }
 
   .info {
-    transform: translate(-50%, 83%);
+    transform: translate(-50%, 73%);
     opacity: 0;
 
     transition: opacity 250ms ease-in, transform 400ms ease-in;
   }
 
   .data {
-    transform: translate(0%, -96%);
+    transform: translate(-50%, -136%);
     opacity: 0;
 
     transition: opacity 250ms ease-in, transform 400ms ease-in;
   }
 
   .card {
-    transform: translate(-100%, -25%);
+    transform: translate(-50%, 15%);
     opacity: 0;
 
     transition: opacity 250ms ease-in, transform 400ms ease-in;
