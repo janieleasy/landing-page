@@ -62,8 +62,8 @@ const ImageWrapper = styled.div`
     position: absolute;
     inset: 50% 50%;
 
-    -webkit-transform: translate(102%, -114%);
-    transform: translate(102%, -114%);
+    -webkit-transform: translate(82%, -114%);
+    transform: translate(82%, -114%);
     opacity: 0;
 
     transition: opacity 250ms ease-in, -webkit-transform 400ms ease-in;
